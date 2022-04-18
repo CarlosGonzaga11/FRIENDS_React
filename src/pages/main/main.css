@@ -1,0 +1,149 @@
+.main {
+  height: 100vh;
+  width: 100vw;
+
+
+}
+
+.orde-button {
+  width: 100vw;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: 80vh;
+
+}
+
+@media screen and (max-width:1030px) {
+  .orde-button {
+
+    margin-left: 110px;
+    height: 80vh;
+
+  }
+
+}
+
+@media screen and (max-width:900px) {
+  .orde-button {
+
+    margin-left: 110px;
+    height: 75vh;
+
+  }
+
+}
+
+@media screen and (max-width:800px) {
+  .orde-button {
+
+    margin-left: 110px;
+    height: 80vh;
+
+  }
+
+}
+@media screen and (max-width:700px) {
+  .orde-button {
+
+    margin-left: 110px;
+    height: 80vh;
+
+  }
+
+}
+@media screen and (max-width:600px) {
+  .orde-button {
+
+    margin-left: 110px;
+    height: 80vh;
+
+  }
+
+}
+
+@media screen and (max-width:680px) {
+
+  .orde-button {
+
+    margin-left: 110px;
+    height: 80vh;
+
+  }
+
+}
+
+
+@media screen and (max-width:680px) {
+
+  .orde-button {
+
+    margin-left: 110px;
+    height: 80vh;
+
+  }
+
+}
+
+@media screen and (max-width:590px) {
+
+  .orde-button {
+
+    margin-left: 110px;
+    height: 85vh;
+
+  }
+
+}
+
+@media screen and (max-width:580px) {
+
+  .orde-button {
+
+    margin-left: 110px;
+    height: 86vh;
+
+  }
+
+}
+@media screen and (max-width:500px) {
+  .orde-button {
+
+    margin-left: 110px;
+    height: 90vh;
+
+  }
+
+}
+@media screen and (max-width:480px) {
+
+  .orde-button {
+
+    margin-left: 110px;
+    height: 90vh;
+
+  }
+
+}
+@media screen and (max-width:400px) {
+
+  .orde-button {
+
+    margin-left: 60px;
+    height: 55vh;
+
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

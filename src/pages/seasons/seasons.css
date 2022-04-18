@@ -1,0 +1,114 @@
+
+.seasons-page {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+}
+.seasons-background{
+    height: 100vh;
+    width: 100vw;
+}
+
+.select-seasons{
+    position:absolute;
+    right: 0;
+    left: 30px;
+    top: 60px;
+    z-index: 99;
+    bottom: 0;
+
+}
+select{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding-left: 15px;
+    height: 30px;
+    width:130px;
+    background: rgb(105, 95, 95);
+    border: none;
+    color:white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+
+}
+
+.seasons-video{
+    position:absolute;
+    right: 0;
+    left: 0;
+    top: 120px;
+    bottom: 0;
+    z-index: 99;
+    padding-left: 20px;
+   
+}
+.conteudo-night{
+    background: rgba(0, 0, 0, 0.44);
+    position:absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.list-seasons{
+    position:absolute;
+    left: 65px;
+    right: 0;
+    top: 0px;
+    bottom: 0;
+    z-index: 99;
+    width: 200px;
+    height:30px !important;
+    font-size:16px;
+    transition:0.2s;
+
+    border: 2px solid rgb(105, 95, 95);
+    color:white;
+    border-radius:5px;
+    height: 25px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.lista-episodios{
+    position: absolute;
+    left: 600px;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    z-index: 99;
+    justify-content: center;
+}
+
+.right-epi{
+    position: absolute;
+    right: 0;
+    top: 60px;
+    left: 950px;
+    bottom: 0;
+    z-index: 99;
+    display: flex;
+    align-items: center;
+   
+    flex-direction: column;
+
+    transition:0.2s;
+    
+    overflow:auto;
+    overflow-x: hidden;
+    height: 80vh;
+    width: 100%;
+}
+.xx{
+    margin-top:40px;
+    
+}

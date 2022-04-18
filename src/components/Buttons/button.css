@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@700&family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&family=Roboto+Mono&display=swap');
+
+.button{
+    transform: skew(-25deg); 
+
+}
+.button-watch{
+    width:300px;
+    height: 58px;
+    position:relative;
+    color: white;
+    background-color: #A51F18;
+    padding: 10px 20px;
+    line-height: 1;
+    border: none;
+    cursor: pointer;
+    margin-right:35px;
+    font-size: 20px;
+    font-family: 'Montserrat';
+    border-radius: 5px;
+    box-shadow: 2px 2px rgb(253, 253, 253);
+
+}
+
+@media screen and (mmax-width: 900px) { 
+
+   
+    .button-watch{
+        width: 250px;
+        height: 58px;
+        font-size:15px;
+    }
+  
+
+}
+
+@media screen and (max-width:780px) {
+
+    .button-watch{
+        width: 180px;
+        height: 58px;
+        font-size:15px;
+    }
+  
+     
+   }
+
+   @media screen and (max-width:400px) {
+
+    .button-watch{
+        width: 100px;
+        height: 40px;
+        font-size:13px;
+    }
+  
+     
+   }
+
