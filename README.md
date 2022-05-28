@@ -30,7 +30,7 @@ $ git clone https://github.com/CarlosGonzaga11/FRIENDS_React.git
 # ou acesse a pasta clonada
 
 # Para executar, basta rodar:
-$ yarn start
+$ npm start
 ```
 
 # :closed_book: License
