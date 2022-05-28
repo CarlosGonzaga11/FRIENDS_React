@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido utlizando:
 # :construction_worker: How to run
 ```bash
 # Clique em code e depois em download.zip ou clone o repositório.
-$ git clone https://github.com/LeoGonzaga/digital-signboard.git
+$ git clone https://github.com/CarlosGonzaga11/LetreiroDigital.git
 
 # Extraia a pasta caso tenha feito o download por zip
 # ou acesse a pasta clonada
